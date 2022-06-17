@@ -1,0 +1,8 @@
+first line
+
+Of all the health risks a growing child may face, air pollution may be the least conspicuous.
+Around the world, driven by massive wildfires, belching smokestacks, and the compounding effects of climate change, contaminated air remains a growing and serious hazard.
+While the April 2022 marking of Earth Day reflects the public's appetite to protect the environment on behalf of a new generation, U.S. action to safeguard air quality specifically has been sporadic since the first Earth Day in 1970.
+That year, major revisions to the Clean Air Act were passed, and 1978 brought a federal ban on fluorocarbon gasses in aerosol products.
+Though interwoven with ongoing United Nations work to combat climate change, the global health hazards from breathing polluted air have spread widely and increased to levels not experienced in decades.
+To address these concerning trends, researchers in NYU’s Marron Institute have partnered with NASA atmospheric scientists and are now developing a streamlined air quality monitoring index. It will allow local and regional governments as well as individual households anywhere in the world to size-up the risk that children in particular would face playing outdoors or heading off to school on any given day.
